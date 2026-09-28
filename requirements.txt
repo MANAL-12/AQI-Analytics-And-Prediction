@@ -10,4 +10,4 @@ seaborn
 shap
 scipy
 requests
-plotly
+plotly>=5.18.0
