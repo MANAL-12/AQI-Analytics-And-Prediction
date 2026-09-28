@@ -11,3 +11,4 @@ shap
 scipy
 requests
 plotly>=5.18.0
+statsmodels
